@@ -1,0 +1,12 @@
+D:\Programing Language\C sharp\School\BTL\Clothing-store-manager-BTL\Clothing-store-manager-BTL\bin\Debug\Clothing-store-manager-BTL.exe.config
+D:\Programing Language\C sharp\School\BTL\Clothing-store-manager-BTL\Clothing-store-manager-BTL\bin\Debug\Clothing-store-manager-BTL.exe
+D:\Programing Language\C sharp\School\BTL\Clothing-store-manager-BTL\Clothing-store-manager-BTL\bin\Debug\Clothing-store-manager-BTL.pdb
+D:\Programing Language\C sharp\School\BTL\Clothing-store-manager-BTL\Clothing-store-manager-BTL\obj\Debug\Clothing-store-manager-BTL.csproj.AssemblyReference.cache
+D:\Programing Language\C sharp\School\BTL\Clothing-store-manager-BTL\Clothing-store-manager-BTL\obj\Debug\Clothing-store-manager-BTL.csproj.SuggestedBindingRedirects.cache
+D:\Programing Language\C sharp\School\BTL\Clothing-store-manager-BTL\Clothing-store-manager-BTL\obj\Debug\Clothing_store_manager_BTL.Properties.Resources.resources
+D:\Programing Language\C sharp\School\BTL\Clothing-store-manager-BTL\Clothing-store-manager-BTL\obj\Debug\Clothing_store_manager_BTL.Views.LoginForm.resources
+D:\Programing Language\C sharp\School\BTL\Clothing-store-manager-BTL\Clothing-store-manager-BTL\obj\Debug\Clothing-store-manager-BTL.csproj.GenerateResource.cache
+D:\Programing Language\C sharp\School\BTL\Clothing-store-manager-BTL\Clothing-store-manager-BTL\obj\Debug\Clothing-store-manager-BTL.csproj.CoreCompileInputs.cache
+D:\Programing Language\C sharp\School\BTL\Clothing-store-manager-BTL\Clothing-store-manager-BTL\obj\Debug\Clothing-store-manager-BTL.exe
+D:\Programing Language\C sharp\School\BTL\Clothing-store-manager-BTL\Clothing-store-manager-BTL\obj\Debug\Clothing-store-manager-BTL.pdb
+D:\Programing Language\C sharp\School\BTL\Clothing-store-manager-BTL\Clothing-store-manager-BTL\obj\Debug\Clothing_store_manager_BTL.Views.RegisterForm.resources

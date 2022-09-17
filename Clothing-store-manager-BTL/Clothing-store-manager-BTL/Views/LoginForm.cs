@@ -16,5 +16,11 @@ namespace Clothing_store_manager_BTL.Views
         {
             InitializeComponent();
         }
+
+        private void label6_Click(object sender, EventArgs e)
+        {
+            RegisterForm rf = new RegisterForm();
+            rf.Show();
+        }
     }
 }

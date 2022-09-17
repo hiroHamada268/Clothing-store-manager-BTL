@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Clothing_store_manager_BTL.Views;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
