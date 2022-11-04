@@ -20,7 +20,7 @@ namespace Clothing_store_manager_BTL
 
         public void TestUpdate()
         {
-            MessageBox.Show("Test GIT from Main");
+            MessageBox.Show("Test GIT Update From Khang");
         }
     }
 }
