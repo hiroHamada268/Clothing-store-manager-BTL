@@ -18,9 +18,9 @@ namespace Clothing_store_manager_BTL
             InitializeComponent();
         }
 
-        public void Test()
+        public void TestUpdate()
         {
-            MessageBox.Show("Test GIT");
+            MessageBox.Show("Test GIT from Main");
         }
     }
 }
