@@ -17,5 +17,10 @@ namespace Clothing_store_manager_BTL
         {
             InitializeComponent();
         }
+
+        public void Test()
+        {
+            MessageBox.Show("Test GIT");
+        }
     }
 }
